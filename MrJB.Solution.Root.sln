@@ -18,6 +18,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MrJB.Solution.Aspire.AppHos
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MrJB.Solution.Aspire.ServiceDefaults", "aspire\MrJB.Solution.Aspire.ServiceDefaults\MrJB.Solution.Aspire.ServiceDefaults.csproj", "{A4F148B0-D2B9-46F9-8CD8-92DFC0AF24D1}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "apps", "apps", "{A25322CE-BD61-40E7-BB25-D88342F6B265}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "apps", "apps", "{0121138D-09DC-436A-ACE2-AA96975FEE78}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,8 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{C90DBA4E-1A9D-4183-A557-3EF70A51FD26} = {0BA59746-DE05-48E4-8B6F-CBA583975C42}
 		{A4F148B0-D2B9-46F9-8CD8-92DFC0AF24D1} = {0BA59746-DE05-48E4-8B6F-CBA583975C42}
+		{A25322CE-BD61-40E7-BB25-D88342F6B265} = {06B1FB99-BF23-47E2-AA85-B23F67B2E167}
+		{0121138D-09DC-436A-ACE2-AA96975FEE78} = {45FEF0CA-DF77-472B-ADAB-987EB1699216}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {3F9AC315-728C-4D3A-B8AC-BBB8C5AA19F9}
