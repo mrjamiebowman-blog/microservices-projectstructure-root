@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "_Solution Items", "_Solution Items", "{3456696A-880B-48A1-8740-F25CF91BDAC5}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{06B1FB99-BF23-47E2-AA85-B23F67B2E167}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{45FEF0CA-DF77-472B-ADAB-987EB1699216}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "aspire", "aspire", "{0BA59746-DE05-48E4-8B6F-CBA583975C42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MrJB.Solution.Aspire.AppHost", "aspire\MrJB.Solution.Aspire\MrJB.Solution.Aspire.AppHost\MrJB.Solution.Aspire.AppHost.csproj", "{6468C334-1254-41D5-8F5C-1129C0427261}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MrJB.Solution.Aspire.ServiceDefaults", "aspire\MrJB.Solution.Aspire\MrJB.Solution.Aspire.ServiceDefaults\MrJB.Solution.Aspire.ServiceDefaults.csproj", "{3F2E4528-21F7-4DCD-88AE-82897D57D00F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6468C334-1254-41D5-8F5C-1129C0427261}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6468C334-1254-41D5-8F5C-1129C0427261}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6468C334-1254-41D5-8F5C-1129C0427261}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6468C334-1254-41D5-8F5C-1129C0427261}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F2E4528-21F7-4DCD-88AE-82897D57D00F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F2E4528-21F7-4DCD-88AE-82897D57D00F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F2E4528-21F7-4DCD-88AE-82897D57D00F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F2E4528-21F7-4DCD-88AE-82897D57D00F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6468C334-1254-41D5-8F5C-1129C0427261} = {0BA59746-DE05-48E4-8B6F-CBA583975C42}
+		{3F2E4528-21F7-4DCD-88AE-82897D57D00F} = {0BA59746-DE05-48E4-8B6F-CBA583975C42}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F9AC315-728C-4D3A-B8AC-BBB8C5AA19F9}
+	EndGlobalSection
+EndGlobal
