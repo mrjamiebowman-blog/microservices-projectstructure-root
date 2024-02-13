@@ -28,6 +28,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MrJB.Solution.Api", "..\api
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MrJB.Solution.Web", "..\web\src\MrJB.Solution.Web\MrJB.Solution.Web.csproj", "{4662A964-B574-4131-B3C8-F5A5AB7EF440}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MrJB.Solution.Common", "..\common\src\MrJB.Solution.Common\MrJB.Solution.Common.csproj", "{5CFCAABF-3C92-48CA-A34E-79ACBF6CBEE1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -50,6 +52,10 @@ Global
 		{4662A964-B574-4131-B3C8-F5A5AB7EF440}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4662A964-B574-4131-B3C8-F5A5AB7EF440}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4662A964-B574-4131-B3C8-F5A5AB7EF440}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CFCAABF-3C92-48CA-A34E-79ACBF6CBEE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CFCAABF-3C92-48CA-A34E-79ACBF6CBEE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CFCAABF-3C92-48CA-A34E-79ACBF6CBEE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CFCAABF-3C92-48CA-A34E-79ACBF6CBEE1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -62,6 +68,7 @@ Global
 		{82E28B40-D1B5-4380-8C73-88DCA503FBE8} = {06B1FB99-BF23-47E2-AA85-B23F67B2E167}
 		{58557145-5F85-46EC-AFE0-42416F4BF0E3} = {82E28B40-D1B5-4380-8C73-88DCA503FBE8}
 		{4662A964-B574-4131-B3C8-F5A5AB7EF440} = {A25322CE-BD61-40E7-BB25-D88342F6B265}
+		{5CFCAABF-3C92-48CA-A34E-79ACBF6CBEE1} = {06B1FB99-BF23-47E2-AA85-B23F67B2E167}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {3F9AC315-728C-4D3A-B8AC-BBB8C5AA19F9}

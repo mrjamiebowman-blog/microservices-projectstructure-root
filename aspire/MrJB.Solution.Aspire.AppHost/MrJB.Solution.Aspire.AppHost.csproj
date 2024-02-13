@@ -9,10 +9,12 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Aspire.Hosting" Version="8.0.0-preview.1.23557.2" />
+    <PackageReference Include="Aspire.Hosting" Version="8.0.0-preview.2.23619.3" />
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\..\..\api\src\MrJB.Solution.Api\MrJB.Solution.Api.csproj" />
+    <ProjectReference Include="..\..\..\web\src\MrJB.Solution.Web\MrJB.Solution.Web.csproj" />
     <ProjectReference Include="..\MrJB.Solution.Aspire.ServiceDefaults\MrJB.Solution.Aspire.ServiceDefaults.csproj" />
   </ItemGroup>
 
