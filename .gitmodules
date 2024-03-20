@@ -1,12 +1,12 @@
 [submodule "code/Api"]
 	path = code/Api
-	url = git@github.com:mrjamiebowman-blog/microservices-projectstructure-api.git
+	url = https://github.com/mrjamiebowman-blog/microservices-projectstructure-api.git
 	branch = main
 [submodule "code/Common"]
 	path = code/Common
-	url = git@github.com:mrjamiebowman-blog/microservices-projectstructure-common.git
+	url = https://github.com/mrjamiebowman-blog/microservices-projectstructure-common.git
 	branch = main
 [submodule "code/Web"]
 	path = code/Web
-	url = git@github.com:mrjamiebowman-blog/microservices-projectstructure-web.git
+	url = https://github.com/mrjamiebowman-blog/microservices-projectstructure-web.git
 	branch = main
