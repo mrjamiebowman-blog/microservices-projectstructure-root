@@ -13,13 +13,13 @@ This is currently a work in progress. The repos may not build and run yet with .
 
 ### Recursive Clone
 ```cli
-git clone --recurse-submodules git@github.com:mrjamiebowman-blog/microservices-projectstructure-root.git
+git clone --recurse-submodules https://github.com/mrjamiebowman-blog/microservices-projectstructure-root.git
 cd microservices-projectstructure-root
 ```
 
 ### Clone & Init, Update
 ```cli
-git clone git@github.com:mrjamiebowman-blog/microservices-projectstructure-root.git
+git clone https://github.com/mrjamiebowman-blog/microservices-projectstructure-root.git
 cd microservices-projectstructure-root
 
 # initialize submodules
