@@ -30,6 +30,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MrJB.Solution.Web", "code\W
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MrJB.Solution.Common", "code\Common\src\MrJB.Solution.Common\MrJB.Solution.Common.csproj", "{0D3EEFD5-3B1A-459B-ACC7-6D0D4B72B5B3}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_build", "build\_build.csproj", "{E41288CE-C4F1-453B-B9E1-96283D710130}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -56,6 +58,8 @@ Global
 		{0D3EEFD5-3B1A-459B-ACC7-6D0D4B72B5B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0D3EEFD5-3B1A-459B-ACC7-6D0D4B72B5B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0D3EEFD5-3B1A-459B-ACC7-6D0D4B72B5B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E41288CE-C4F1-453B-B9E1-96283D710130}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E41288CE-C4F1-453B-B9E1-96283D710130}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
